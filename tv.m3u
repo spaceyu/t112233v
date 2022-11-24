@@ -8,7 +8,7 @@ http://59.49.41.44/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTEN
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中央电视",CCTV4中文国际
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央电视",CCTV5体育
-http://hls.ye23.vip/hls/cctv5hd.m3u8
+http://hls.yun.gehua.net.cn:8088/live/CCTV5HD_6000.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央电视",CCTV5+体育
 http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央电视",CCTV6电影
@@ -113,5 +113,5 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/265
 http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/spaceyu/t112233v/main/logo/bilibili.png" group-title="哔哩哔哩LPL直播",哔哩哔哩LPL直播
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/590479/live_50329118_9516950_bluray/index.m3u8?expires=1648210191&len=0&oi=1709458122&pt=web&qn=10000&trid=1007fff5b9122c114c66a069dfe9c70227b1&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=479185dd002ed15eba87506fe5b4bb29&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=1&src=123021&sl=10&free_type=0&flowtype=1&machinezone=ylf&pp=rtmp&slot=7&source=onetier&order=1&site=10d56a2c48919d4fe33a8facd874dd73
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="世界杯",抖音体育4K
-https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-112002057447932598_spuhd.flv?_neptune_token=MIGmBAwh_WmtAWOaSwBSk7wEgYPaLJetKoCk_9FDXYt7V_lyAC3zG734WmL9ec5q0m-MCmkIxoSAje8_KDDJ-6OmRec2JlmMnKC3MVpa34UJChYVwxbUuLjOU-h4rVR3IEn3DpNwpyFUDBRudHYzMs9HYRMb65Zx9W0pJ6-KDp0yApzJIfHRq_Quj62XWMgqNiLInIcexAQQmI0wKsjNiayfwYo1FZYiIg&expire=637cd2ef&sign=60cf02970d15324acb330a6c47bf578b&abr_pts=-1800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="世界杯",CCTV16 4K 50帧
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
