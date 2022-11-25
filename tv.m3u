@@ -36,7 +36,7 @@ http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央电视",CCTV17农业
 http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央电视",CCTV-4K超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://61.147.210.69:8101/livews-tp4k.cctv.cn/live/4K0219.stream/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/spaceyu/t112233v/main/logo/CCTV8k.png" group-title="中央电视",CCTV-8K超高清
 ##http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海地方台",新闻综合
