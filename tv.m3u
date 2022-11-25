@@ -106,7 +106,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="各地卫视",贵州卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-##https://cdn.hklive.tv/xxxx/81/index.m3u8
 http://113.117.74.37:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky SportsF1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="体育",Sky SportsF1
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/265
