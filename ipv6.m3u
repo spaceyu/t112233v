@@ -31,7 +31,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央电视(ipv6)",CCTV15音乐
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视(ipv6)",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视(ipv6)",CCTV16奥林匹克
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央电视(ipv6)",CCTV17农业
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
@@ -107,6 +107,8 @@ http://113.117.74.37:808/hls/67/index.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/spaceyu/t112233v/main/logo/bilibili.png" group-title="哔哩哔哩LPL直播",哔哩哔哩LPL直播
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/590479/live_50329118_9516950_bluray/index.m3u8?expires=1648210191&len=0&oi=1709458122&pt=web&qn=10000&trid=1007fff5b9122c114c66a069dfe9c70227b1&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=479185dd002ed15eba87506fe5b4bb29&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=1&src=123021&sl=10&free_type=0&flowtype=1&machinezone=ylf&pp=rtmp&slot=7&source=onetier&order=1&site=10d56a2c48919d4fe33a8facd874dd73
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="世界杯",CCTV-4K超高清(4k30帧)
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="世界杯",CCTV16(4K25帧)
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="" tvg-name="cctv16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="世界杯",CCTV16 4K 50帧
