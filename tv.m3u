@@ -113,3 +113,7 @@ https://d1--cn-gotcha208.bilivideo.com/live-bvc/590479/live_50329118_9516950_blu
 http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-id="" tvg-name="cctv16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="世界杯",CCTV16 4K 50帧
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="NowSports618" tvg-name="Now Sports 618"  group-title="NOW系列" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_425_305.png" group-title="" ,Now Sports 618
+https://pull-l3-cny.douyincdn.com/live/a14ba2c4b8b017a06c5da2b95a04f766.flv
+#EXTINF:-1 tvg-id="NowSports619" tvg-name="Now Sports 619"  group-title="NOW系列" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_425_305.png" group-title="" ,Now Sports 619
+https://pull-l3-cny.douyincdn.com/live/d07300e4f303b838b009cdfa2224c090.flv
