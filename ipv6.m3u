@@ -113,12 +113,12 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-22852f82-35c9-4735-9841-096d5b0
 http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/spaceyu/t112233v/main/logo/bilibili.png" group-title="哔哩哔哩LPL直播",哔哩哔哩LPL直播
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/590479/live_50329118_9516950_bluray/index.m3u8?expires=1648210191&len=0&oi=1709458122&pt=web&qn=10000&trid=1007fff5b9122c114c66a069dfe9c70227b1&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=479185dd002ed15eba87506fe5b4bb29&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=1&src=123021&sl=10&free_type=0&flowtype=1&machinezone=ylf&pp=rtmp&slot=7&source=onetier&order=1&site=10d56a2c48919d4fe33a8facd874dd73
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="世界杯",CCTV-4K超高清(4k30帧)
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="世界杯",CCTV-4K超高清(4k50帧)
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="世界杯",CCTV16(4K25帧)
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="" tvg-name="cctv16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="世界杯",CCTV16 4K 50帧
-http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="国际",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="国际",凤凰资讯
