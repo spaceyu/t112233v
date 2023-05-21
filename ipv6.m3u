@@ -106,9 +106,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="各地卫视",贵州卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-http://162.19.247.76:22222/live/tvbfc/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台1
-http://2022.stream-link.org/live/131217689
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="127" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台1
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-22852f82-35c9-4735-9841-096d5b02d6b6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂四年级
 http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/spaceyu/t112233v/main/logo/bilibili.png" group-title="哔哩哔哩LPL直播",哔哩哔哩LPL直播
