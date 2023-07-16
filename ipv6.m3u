@@ -41,12 +41,11 @@ http://61.147.210.69:8101/livews-tp4k.cctv.cn/live/4K0219.stream/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/spaceyu/t112233v/main/logo/CCTV8k.png" group-title="中央电视(ipv6)",CCTV-8K超高清
 ##http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海地方台",新闻综合
-http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
-#http://live.cooltv.top/tv/bestv.php?id=20
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海地方台",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海地方台",都市频道
-http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海地方台",纪实人文
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海地方台",东方影视
@@ -55,10 +54,6 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海地方台",五星体育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海地方台",五星体育1
-#http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1 tvg-id="1999" tvg-name="五星体育频道2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海地方台",五星体育2
-#http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海地方台",劲爆体育
 http://live.cooltv.top/tv/yqdtv.php?id=146
 #EXTINF:-1 tvg-id="1965" tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.com/tv/shanghaiwaiyu.png" group-title="上海地方台",上海ICS外语
@@ -80,7 +75,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/o
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="各地卫视",广东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育",广东体育
-http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdty&auth=rinimabi
+http://60.208.16.27:1505/gudou.php?id=364&id=1413_4500
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="各地卫视",深圳卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="各地卫视",黑龙江卫视
@@ -105,12 +100,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="各地卫视",贵州卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台1
-#http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-22852f82-35c9-4735-9841-096d5b02d6b6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂四年级
-http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
+http://60.208.16.27:1505/gudou.php?id=364&id=1350_4500
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂五年级
+http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/spaceyu/t112233v/main/logo/bilibili.png" group-title="哔哩哔哩LPL直播",哔哩哔哩LPL直播
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/590479/live_50329118_9516950_bluray/index.m3u8?expires=1648210191&len=0&oi=1709458122&pt=web&qn=10000&trid=1007fff5b9122c114c66a069dfe9c70227b1&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=479185dd002ed15eba87506fe5b4bb29&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=1&src=123021&sl=10&free_type=0&flowtype=1&machinezone=ylf&pp=rtmp&slot=7&source=onetier&order=1&site=10d56a2c48919d4fe33a8facd874dd73
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="世界杯",CCTV4K超高清(4k50帧)
